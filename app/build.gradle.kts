@@ -5,7 +5,7 @@ plugins {
     id("kotlin-kapt")
 }
 
-android {
+ {
     namespace = "com.example.studentcrudapp"
     compileSdk = 34
 
