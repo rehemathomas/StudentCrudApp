@@ -19,7 +19,7 @@ plugins {
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
 
-    buildTypes {
+    {
         release {
             isMinifyEnabled = false
             proguardFiles(
