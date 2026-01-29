@@ -20,7 +20,7 @@ plugins {
     }
 
      buildTypes {
-        release {
+        lease {
             isMinifyEnabled = false
             proguardFiles(
                 getDefaultProguardFile("proguard-android-optimize.txt"),
