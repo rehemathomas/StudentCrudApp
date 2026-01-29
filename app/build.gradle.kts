@@ -9,7 +9,7 @@ plugins {
     namespace = "com.example.studentcrudapp"
     compileSdk = 34
 
-    efaultConfig {
+    defaultConfig {
         applicationId = "com.example.studentcrudapp"
         minSdk = 21
         targetSdk = 34
