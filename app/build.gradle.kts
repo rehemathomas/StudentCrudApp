@@ -34,7 +34,7 @@ plugins {
         targetCompatibility = JavaVersion.VERSION_1_8
     }
 
-    kotlinOptions {
+    kotlin {
         jvmTarget = "1.8"
     }
 
