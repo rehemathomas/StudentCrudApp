@@ -22,7 +22,7 @@ plugins {
      buildTypes {
         release {
             isMinifyEnabled = false
-            proguardFiles(
+            proguardFile(
                 getDefaultProguardFile("proguard-android-optimize.txt"),
                 "proguard-rules.pro"
             )
