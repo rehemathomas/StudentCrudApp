@@ -24,7 +24,7 @@ plugins {
             isMinifyEnabled = false
             proguardFiles(
                 getDefaultProguardFile("proguard-android-optimize.txt"),
-                "proguard-rules.pr"
+                "proguard-rules.pro"
             )
         }
     }
